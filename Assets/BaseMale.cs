@@ -44,7 +44,7 @@ public class BaseMale : MonoBehaviour {
 			Male.transform.parent = Y.transform;
 
 
-			Debug.Log("Camera?"+v3);
+		//	Debug.Log("Camera?"+v3);
 
 		};
 
